@@ -8,11 +8,11 @@ class Solution {
                 break;
             }
         }
-        if(ind==-1){
+        if(ind == -1){
             int start=0;
             int end=n-1;
             while(start<end){
-                int temp=nums[start];
+                int temp =nums[start];
                 nums[start]=nums[end];
                 nums[end]=temp;
                 start++;
@@ -20,22 +20,23 @@ class Solution {
             }
             return;
         }
-        for(int i=n-1;i>ind;i--){
+        for(int i =n-1;i>ind;i--){
             if(nums[i]>nums[ind]){
                 int temp=nums[i];
                 nums[i]=nums[ind];
                 nums[ind]=temp;
                 break;
             }
+
         }
         int start=ind+1;
-            int end=n-1;
-            while(start<end){
-                int temp=nums[start];
-                nums[start]=nums[end];
-                nums[end]=temp;
-                start++;
-                end--;
-            }
+        int end=n-1;
+        while(start<end){
+            int temp=nums[start];
+            nums[start]=nums[end];
+            nums[end]=temp;
+            start++;
+            end--;
+        }
     }
 }

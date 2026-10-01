@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## String
 |  |

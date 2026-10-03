@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## String

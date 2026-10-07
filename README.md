@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |

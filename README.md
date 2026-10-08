@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |

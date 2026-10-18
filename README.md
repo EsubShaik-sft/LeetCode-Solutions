@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack

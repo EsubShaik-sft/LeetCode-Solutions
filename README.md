@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Sorting

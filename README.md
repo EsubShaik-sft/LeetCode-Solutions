@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/EsubShaik-sft/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
